@@ -1,0 +1,21 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\prite\Documents\workspace-spring-tool-suite-4-4.26.0.RELEASE\EPubReader\Epubreader.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\prite\Documents\workspace-spring-tool-suite-4-4.26.0.RELEASE\EPubReader\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.000.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-23
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Java\jdk-23\bin;C:\Program Files\Git\cmd;C:\ProgramData\chocolatey\bin;C:\Program Files\TortoiseGit\bin;C:\Users\prite\Downloads\apache-maven-3.9.9\bin;C:\Users\prite\AppData\Local\Microsoft\WindowsApps;C:\Users\prite\AppData\Roaming\npm;C:\Program Files (x86)\GnuWin32\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.2.4\bin;C:\Users\prite\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\prite\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk-23\bin
+JRE paths:	C:\Program Files\Java\jdk-23;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Java\jdk-23\bin;C:\Program Files\Git\cmd;C:\ProgramData\chocolatey\bin;C:\Program Files\TortoiseGit\bin;C:\Users\prite\Downloads\apache-maven-3.9.9\bin;C:\Users\prite\AppData\Local\Microsoft\WindowsApps;C:\Users\prite\AppData\Roaming\npm;C:\Program Files (x86)\GnuWin32\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.2.4\bin;C:\Users\prite\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\prite\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk-23\bin
+Check launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-23\bin\javac.exe (OK)
+Version string: 1.023.000_001 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe
+Launcher args:	-jar "C:\Users\prite\Documents\workspace-spring-tool-suite-4-4.26.0.RELEASE\EPubReader\Epubreader.exe"
+Args length:	102/32768 chars
+Exit code:	0
