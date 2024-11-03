@@ -24,14 +24,18 @@
         <dependency>
             <groupId>nl.siegmann.epublib</groupId>
             <artifactId>epublib-core</artifactId>
-            <version>3.0</version> <!-- Change to the latest available version -->
+            <version>3.1</version>
         </dependency>
+
+
     </dependencies>
     <repositories>
         <repository>
-            <id>jcenter</id>
-            <url>https://jcenter.bintray.com/</url>
+            <id>psiegman-repo</id>
+            <url>https://github.com/psiegman/mvn-repo/raw/master/releases</url>
         </repository>
     </repositories>
+
+
 
 </project>
