@@ -9,15 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8459d62f-b2ed-47ee-aa54-bd65e8c51f44" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/EPubReader_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/readerepub/EpubReaderApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/readerepub/EpubReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/readerepub/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="8459d62f-b2ed-47ee-aa54-bd65e8c51f44" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
